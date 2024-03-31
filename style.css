@@ -30,17 +30,18 @@ h1 {
   font-weight: 900;
   padding: 1rem;
   text-align: center;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 input {
   width: 450px;
   height: 35px;
   margin: 1rem;
-  border: 1px solid lightblue;
+  border: 2px solid rgb(202, 169, 125);
   box-shadow: none;
   background-color: lightblue;
   font-weight: bold;
+  border-radius: 10px;
 }
 .info {
   padding: 1rem;
